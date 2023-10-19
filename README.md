@@ -1,3 +1,3 @@
 ## My Public Dotfiles
 
-Nothing special too see...
+Nothing special to see...WIP
